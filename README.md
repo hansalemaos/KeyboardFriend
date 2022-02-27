@@ -46,7 +46,7 @@ Choose a prefix, I usually use "@"|<img src="99_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 4 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-The app creates now all keyboard abbrivations|<img src="132_800x800.png" width="400"/> |
+The app creates now all keyboard abbreviations|<img src="132_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 5 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
