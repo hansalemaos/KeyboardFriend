@@ -50,7 +50,7 @@ The app creates now all keyboard abbreviations|<img src="132_800x800.png" width=
 
 | _,.-'``'-.,_,.'`` Step 5 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-if you write now "@alias" and press space ...|<img src="165_800x800.png" width="400"/> |
+if you write "@alias" now and press space ...|<img src="165_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 6 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
